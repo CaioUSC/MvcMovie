@@ -8595,11 +8595,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\caio_\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\caio_\\OneDrive\\Documentos\\GitHub\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\caio_\\source\\repos\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "C:\\Users\\caio_\\OneDrive\\Documentos\\GitHub\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\caio_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\caio_\\source\\repos\\MvcMovie\\MvcMovie\\obj\\",
+      "outputPath": "C:\\Users\\caio_\\OneDrive\\Documentos\\GitHub\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
